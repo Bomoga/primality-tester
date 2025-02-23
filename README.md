@@ -10,22 +10,22 @@
 
 # Dependencies
 
-Libraries used:
+**Libraries used:**
 
-import java.io.FileWriter;
+-import java.io.FileWriter;
 
-import java.io.IOException;
+-import java.io.IOException;
 
-import java.io.PrintWriter;
+-import java.io.PrintWriter;
 
-import java.math.BigInteger;
+-import java.math.BigInteger;
 
-import java.util.Random;
+-import java.util.Random;
 
 # Usage
 
-Compile with 'javac PrimalityTest.java'
+-Compile with 'javac PrimalityTest.java'
 
-Run command 'java PrimalityTest'
+-Run command 'java PrimalityTest'
 
-Let the program run for one hour.
+-Let the program run for one hour.
